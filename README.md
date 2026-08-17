@@ -6,11 +6,15 @@ A JavaFX desktop game for generating, navigating, saving, loading, and solving m
 
 ### Welcome screen
 
-![Welcome screen](docs/images/welcome-page.png)
+<p align="center">
+  <img src="docs/images/welcome-page.png" alt="Welcome screen" width="650">
+</p>
 
 ### Maze gameplay
 
-![Maze gameplay](docs/images/maze-game.png)
+<p align="center">
+  <img src="docs/images/maze-game.png" alt="Maze gameplay" width="650">
+</p>
 
 ## Features
 
