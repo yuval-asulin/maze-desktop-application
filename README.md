@@ -2,6 +2,16 @@
 
 A JavaFX desktop game for generating, navigating, saving, loading, and solving mazes. The application combines a graphical MVVM interface with local client-server communication, maze compression, and search algorithms.
 
+## Screenshots
+
+### Welcome screen
+
+![Welcome screen](docs/images/welcome-page.png)
+
+### Maze gameplay
+
+![Maze gameplay](docs/images/maze-game.png)
+
 ## Features
 
 - Generate solvable mazes with configurable dimensions.
